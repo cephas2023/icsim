@@ -115,6 +115,12 @@ BACK.PY:
 
                   print(f"Les XX premières lignes ont été sauvegardées dans '{backup_file_path}' et le reste a été supprimé.")
 
+
+
+IT'S NOT LOTTERY: WE FOUND IT: 19B#00000E000000
+-----------------------------
+Après ce process nous avons pu trouver la commande qui est la suivante: 19B#00000E000000
+
 DES COMMANDES NON NEGLIGEABLES
 ---------------------------------------------------------
 
